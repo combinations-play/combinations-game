@@ -1,69 +1,65 @@
-**🐝 Welcome to Visit [https://spellbee.cc/](https://spellbee.cc/) — Play SpellBee Online!**
+🧩 Welcome to Visit https://combinationsgame.app/ — Match, Merge, and Solve the Puzzle!
 
-## 🔤 SpellBee — Buzzing With Word Fun!
+🧠 Combinations — The Smart Matching Puzzle Game
 
-**SpellBee** is a delightful word-building puzzle that challenges players to create as many words as possible from a hive of letters — always using the central letter. It's the perfect mix of vocabulary skill and lateral thinking!
+Combinations is a brain-teasing puzzle game where players must merge matching tiles to clear the board and reach the highest possible combination! Plan your moves carefully, combine strategically, and see how far you can go.
 
-🎮 **[Play SpellBee Now](https://spellbee.cc/)**  
-Let your brain buzz with the sweetest wordplay challenge!
+🎯 Play Combinations NowReady to test your matching skills?
 
----
+📚 You May Also Like:
 
-## 🍯 You May Also Like:
+- [2048 Game](https://2048game.work/)
 
-- [Wordle Unlimited](https://wordleunlimited.club/)
-- [Wordle Solver](https://wordlesolver.cc/)
-- [Squaredle](https://squaredle.uk/)
-- [Waffle Game](https://wafflegames.cc/)
+- [Tiles Game](https://tilesgame.cc/)
 
----
+- [Squaredle](https://squaredle.work/)
 
-## ✍️ Key Features of SpellBee
+- [Connections Unlimited](https://connectionsunlimited.me/)
 
-### 🧩 Central Letter Rule  
-Every word you build must include the center letter — a true test of creativity.
+✨ Key Features of Combinations
 
-### 📖 Vocabulary Explosion  
-Great for improving language skills while having loads of fun.
+➡️ Intuitive Puzzle Mechanics
 
-### 🐝 Clean & Friendly Interface  
-Easy to navigate and enjoy — great for all ages.
+Merge tiles with matching numbers or colors and clear the board.
 
-### 📆 Daily Challenges  
-A fresh puzzle every day to keep your mind sharp and active.
+🧩 Progressive Difficulty
 
-### 🚫 No Time Limit  
-Solve at your own pace, whether you're relaxed or competitive.
+Puzzles become increasingly challenging as you advance.
 
----
+🕹️ Smooth and Satisfying Play
 
-## 🎮 How to Play SpellBee
+Enjoy crisp controls and relaxing gameplay.
 
-- **Use the Hive**: Create as many valid words as you can from the 7 given letters.
-- **Include the Center**: Every word must contain the central letter.
-- **Aim for Pangrams**: Find a word that uses every letter in the hive — the ultimate goal!
+🧠 Brain Training
 
----
+Improve your logic and forward-thinking with every level.
 
-## 🌟 Why SpellBee is Addictive
+🕹️ How to Play Combinations
 
-- **Brain-Boosting**: Enhances your vocabulary and spelling in a fun way.
-- **Highly Replayable**: New challenges each day keep things fresh.
-- **Surprisingly Strategic**: The right word in the right moment makes all the difference.
+Slide or Tap: Move tiles to merge identical ones.
 
----
+Strategize: Plan ahead to avoid running out of moves.
 
-## ✅ Tips for Buzzing Success
+Clear and Combine: Create high-level combinations to beat your score.
 
-- **Start Small**: Build short words to get going — then expand.
-- **Think Suffixes**: Common endings (-ing, -ed, -ly) help generate ideas.
-- **Go for the Pangram**: It’s worth the effort — and satisfying too!
+🌟 Why Combinations is So Addictive
 
----
+Simple to Play, Hard to Master: Easy controls meet deep puzzle strategy.
 
-## 💖 Why You'll Love SpellBee
+Visual Satisfaction: Clean graphics and smooth animations.
 
-Whether you're a casual puzzler or a word-game pro, **SpellBee** is packed with charm and challenge. It’s the perfect game for fans of wordplay, spelling tests, or brain teasers.
+Endless Replayability: New strategies and outcomes every time you play.
 
-🐝 **So what are you waiting for? Time to enter the hive and start spelling like a pro!**
+💡 Combinations Pro Tips
 
+Think Ahead: Plan several moves forward.
+
+Chain Reactions: Set up big merges for massive points.
+
+Space Management: Keep the board open to create more moves.
+
+💖 Why You'll Love Combinations
+
+Combinations delivers a highly addictive puzzle experience that's as fun as it is brainy. Whether you're a casual puzzler or a strategy game veteran, Combinations offers endless hours of satisfying challenges.
+
+🧩 Merge your way to victory — start playing Combinations now!
